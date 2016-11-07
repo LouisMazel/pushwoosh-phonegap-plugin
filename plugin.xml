@@ -138,7 +138,7 @@
 		<source-file src="src/android/lib/Pushwoosh.jar" target-dir="libs" />
 		<framework src="com.google.android.gms:play-services:8.3.0" />
 		<framework src="push.gradle" custom="true" type="gradleReference" />
-		<framework src="com.android.support:support-v4:+" />
+		<framework src="com.android.support:support-v4:23.4.0" />
 	</platform>
 
 	<!-- ios -->
